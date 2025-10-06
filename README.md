@@ -45,5 +45,8 @@ Projede e-posta gönderimi gibi işlemler için test amacıyla bir Gmail hesabı
 Bu bilgiler `.env` dosyasında saklanır ve **GitHub deposuna dahil edilmemiştir.**
 
 **.env** : gmail şifresi içerir
+## 🧹 Güvenli Teslim ve Temizlik
+- `.env` dosyası GitHub’a yüklenmemiştir.  
+- Test sonrası uygulama silinmiş, geçici dosyalar temizlenmiştir. 
 **.gitignore** dosyasında bu dosya gizlenmiştir:
 
